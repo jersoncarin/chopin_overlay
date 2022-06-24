@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-devinputjack \
-	treble-overlay-highpriomisc \
 	treble-overlay-misc-aod \
 	treble-overlay-misc-aod-systemui \
 	treble-overlay-misc-dt2w \
@@ -15,8 +14,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-mtk-ims \
 	treble-overlay-telephony-mtk-ims \
 	treble-overlay-tethering \
-	treble-overlay-wifi5g \
 	treble-overlay-tethering-nobpf \
+	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-pocox3gt \
 	treble-overlay-xiaomi-pocox3gt-systemui \
 
